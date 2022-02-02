@@ -1,0 +1,23 @@
+{
+  "name": "paylaterbackend",
+  "version": "1.0.0",
+  "description": "Sample code to store merchant details,user details,transaction details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Akamksha K",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.9.0",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+   
+  }
+}
